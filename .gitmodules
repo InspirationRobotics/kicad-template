@@ -1,0 +1,3 @@
+[submodule "INSP-KICAD-LIB"]
+	path = INSP-KICAD-LIB
+	url = https://github.com/InspirationRobotics/INSP-KICAD-LIB.git
